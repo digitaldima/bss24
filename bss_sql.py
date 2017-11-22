@@ -4,7 +4,6 @@ import json
 import time
 import logging
 
-
 pill = u'\U0001F48A'
 hand = u'\U0001F449'
 warning = u'\U000026A0'
